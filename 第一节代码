@@ -1,0 +1,40 @@
+print('2021')
+print("142857")
+
+
+inpup()  #输入：外界传递给程序的数据
+output()  #c输出：  程序传递给外界的数据
+
+print("hello world!")
+
+print("Looking up,I find the moon bright")
+print("Bowing,in homesickness I'm drowned")
+
+print("举头望明月")
+print("低头思故乡")
+
+# 写出注释，内容是interesting code
+#interesting code
+# 写一行代码，代码内容是print("hello world!")
+print("hello world!")
+
+# 使用print()输出When you love somebody
+print("When you love somebody")
+# 使用print()输出You don't need proof
+print("You don't need proof")
+# 使用print()输出You can feel it
+print("You can feel it")
+
+
+# 使用print()输出:)
+print(":)")
+# 使用print()输出:(
+print(":(")
+# 使用print()输出:P
+print(":P")
+
+print("I love three things in this world.")
+print("Sun moon and you.")
+print("Sun for morning,")
+print("moon for night,")
+print("and you forever.")
